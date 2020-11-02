@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="ATC2019" parent="Theme.AppCompat.DayNight">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#00FF00</item>
+        <item name="android:fontFamily">cursive</item>
+    </style>
+</resources>

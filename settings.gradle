@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Lesson06_E7_AndroidStylesAndThemes_AppManifest'
